@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "unBXC71uFrfYm5z1ytFgWE21Qopd3gd9SwAM743MKbGOW626rHEqWIc/QlBEMi5rsuakjqK+K9rRcl+0m92e5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scray\\source\\repos\\TextToSpeech\\TextToSpeech\\TextToSpeech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scray\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512",
+    "C:\\Users\\scray\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\scray\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
